@@ -1,11 +1,11 @@
 # Extract_data_doc
 
-Extract text, with Summarization, images, table from documents.
+**Extract text, with Summarization, images, table from documents.**
 
-Description
 This Streamlit application.
 
-#Steps- 
+**#Steps- 
+**
 
 Create a virtual environment (optional but recommended):
 
