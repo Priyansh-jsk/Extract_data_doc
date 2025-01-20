@@ -4,8 +4,7 @@
 
 This Streamlit application.
 
-**#Steps- 
-**
+**Steps-**
 
 Create a virtual environment (optional but recommended):
 
